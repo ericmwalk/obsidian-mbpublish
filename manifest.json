@@ -1,0 +1,10 @@
+{
+	"id": "mb-publisher",
+	"name": "M.b Publisher",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Plugin allows you to post to micro.blog from obsidian both text and photos.",
+	"author": "Eric Walker",
+	"authorUrl": "https://runs.lol",
+	"isDesktopOnly": false
+}
